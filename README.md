@@ -1,6 +1,11 @@
-<h1 align="center">Hi <img src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="60px" height="70px">, I'm Camilo Rincón
-<img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> </h1>
-<p align ="left">
+<h1 align="left">Hi, I'm Camilo Rincón <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
+<p  align ="left"> I'm a software engineer student 💻 who is passionate about software development.</p>
+
+* 🔭 I’m currently studying on [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/en/)
+* 🥊 One of my hobies is the Street WorkOut
+
+<h2 align="left">GitHub Status </h2>
+<p align ="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rincon10&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
 </p>
 
@@ -17,10 +22,6 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>MySql</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-      </td>
-      <td width="25%" align="center">
         <span>Git</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
@@ -29,6 +30,10 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
     </tr>
+      <td width="25%" align="center">
+        <span><b>MySql</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
       <td width="25%" align="center">
         <span>C</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
@@ -50,14 +55,12 @@
 <a href="https://www.instagram.com/rincon__10/?hl=es-la">
   <img align="center" alt="Prashant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-<a href="https://github.com/Rincon10">
-  <img align="center" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://www.hackerrank.com/ivan_rincon_s">
   <img align="center" alt="Prashant's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-
+<a href="https://github.com/Rincon10">
+  <img align="center" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 </p>
 

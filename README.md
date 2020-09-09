@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Camilo Rincón <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
+<h1 align="center">Hi, I'm Camilo Rincón <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 <p  align ="left"> I'm a software engineer student 💻 who is passionate about software development.</p>
 
 * 🔭 I’m currently studying on [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/en/)
@@ -11,8 +11,7 @@
 
 ---
 
-
-<center>   <h2> Knowledges</h2> </center>
+<h2 align="left">Knowledges </h2>
 
 <table>
   <tbody>

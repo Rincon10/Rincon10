@@ -4,11 +4,22 @@
 * 🔭 I’m currently studying on [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/en/)
 * 🥊 One of my hobies is the Street WorkOut
 
-<h2 align="left">GitHub Status </h2>
-<p align ="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rincon10&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
-</p>
 
+
+<h2 align="left">GitHub Status </h2>
+
+<table>
+  <tr>
+    <td>
+      <img  src="https://github-readme-stats.vercel.app/api?username=Rincon10&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
+    </td>
+    <td>
+       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rincon10&hide=html)](https://github.com/Rincon10/github-readme-stats")
+    </td>
+  <tr>  
+  
+</table>
+  
 ---
 
 <h2 align="left">Knowledges </h2>

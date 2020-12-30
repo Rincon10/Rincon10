@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Camilo Rincón <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 <p  align ="left"> I'm a software engineer student 💻 who is passionate about software development.</p>
 
-* 🔭 I’m currently studying on [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/en/)
+* 🔭 I’m currently studying on [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/es/)
 * 🥊 One of my hobies is the Street WorkOut
 
 

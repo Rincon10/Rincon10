@@ -8,11 +8,15 @@
 
 <h2 align="left">GitHub Status </h2>
 
-<p>
-<img  src="https://github-readme-stats.vercel.app/api?username=Rincon10&show_icons=true&theme=dracula") 
-     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rincon10)](https://github.com/Rincon10/github-readme-stats)
-</p>
+
+<div>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Rincon10&show_icons=true&theme=dracula")>
+</div>
+
+<h2 align="left">Most Used Languages </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rincon10)](https://github.com/Rincon10/github-readme-stats) 
+
 
 
 

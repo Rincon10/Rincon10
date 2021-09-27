@@ -51,8 +51,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
       <td width="25%" align="center">
-        <span>intellijidea</span><br><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/intellijidea.svg">
+        <span>Java Script</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
     </tr>
     

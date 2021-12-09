@@ -9,9 +9,13 @@
 <h2 align="left">GitHub Status </h2>
 
 
-<div>
-    <img  src="https://github-readme-stats.vercel.app/api?username=Rincon10&show_icons=true&theme=dracula")>
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rincon10&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rincon10&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rincon10&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rincon10&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rincon10&theme=dracula)
+
 
 <h2 align="left">Most Used Languages </h2>
 
@@ -19,8 +23,6 @@
 
 
 
-
-    
   
 ---
 

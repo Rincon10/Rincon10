@@ -66,7 +66,7 @@
 
 
 <p align = "center">
-<a href="https://www.linkedin.com/in/iv%C3%A1n-camilo-rinc%C3%B3n-saavedra-71203022b/">
+<a href="https://www.linkedin.com/in/camilo-rincon-s/">
   <img align="center" alt="Prashant's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/ivan_rincon_s">
